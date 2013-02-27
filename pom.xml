@@ -33,7 +33,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.folkol.WebServer</mainClass>
+              <mainClass>com.folkol.Bootstrap</mainClass>
             </manifest>
           </archive>
         </configuration>

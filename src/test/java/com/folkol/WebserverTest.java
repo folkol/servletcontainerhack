@@ -5,8 +5,9 @@ import junit.framework.TestCase;
 public class WebserverTest
     extends TestCase
 {
-    public void testNothing()
+    public void test()
     {
-        assertTrue( true );
+        // A most rigid test!
+        assertTrue(true);
     }
 }
