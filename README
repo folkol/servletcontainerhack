@@ -1,0 +1,5 @@
+Folkol Webserver
+================
+
+Build with: mvn clean install
+Run with: java -jar target/webserver.java
